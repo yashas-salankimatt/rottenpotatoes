@@ -1,0 +1,5 @@
+Yashas Salankimatt HW2 Submission
+
+GitHub Repo Link: https://github.com/yashas-salankimatt/rottenpotatoes
+
+Heroku App Link: https://vast-woodland-56458.herokuapp.com/movies
